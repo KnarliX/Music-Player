@@ -8,8 +8,8 @@ class MusicPlayer {
             {
                 title: "Zaroor by my premika",
                 artist: "my love",
-                url: "/Zaroor by my premika.mp3",
-                art: "/logo.png"
+                url: "zaroorbymypremika.mp3",
+                art: "logo.png"
             }
         ];
 
