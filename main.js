@@ -7,7 +7,7 @@ class MusicPlayer {
         this.playlist = [
             {
                 title: "Zaroor by my premika",
-                artist: "Janvi",
+                artist: "my love",
                 url: "/Zaroor by my premika.mp3",
                 art: "/logo.png"
             }
