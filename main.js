@@ -9,13 +9,7 @@ class MusicPlayer {
                 title: "Zaroor by my premika",
                 artist: "Janvi",
                 url: "/Zaroor by my premika.mp3",
-                art: "/Picsart_25-01-14_13-33-43-742.jpg"
-            },
-            {
-                title: "my premika",
-                artist: "Janvi",
-                url: "/premika.mp3",
-                art: "/Picsart_25-01-14_13-33-43-742.jpg"
+                art: "/logo.png"
             }
         ];
 
