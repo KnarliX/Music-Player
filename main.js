@@ -7,8 +7,14 @@ class MusicPlayer {
         this.playlist = [
             {
                 title: "Zaroor by my premika",
-                artist: "my love",
-                url: "zaroorbymypremika.mp3",
+                artist: "Jannu",
+                url: "Zaroor by my premika.mp3",
+                art: "https://picsum.photos/300/300"
+            },
+            {
+                title: "yarra by jannu",
+                artist: "Jannu",
+                url: "yarra by jannu.mp3",
                 art: "https://picsum.photos/300/300"
             }
         ];
