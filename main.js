@@ -16,7 +16,19 @@ class MusicPlayer {
                 artist: "Jannu",
                 url: "yarra by jannu.mp3",
                 art: "https://picsum.photos/300/300"
-            }
+            },
+            {
+                title: "naina by jannu",
+                artist: "Jannu",
+                url: "naina.mp3",
+                art: "https://picsum.photos/300/300"
+            },
+            {
+                title: "BULLYA by jannu",
+                artist: "Jannu",
+                url: "BULLYA.mp3",
+                art: "https://picsum.photos/300/300"
+            },
         ];
 
         this.initializeElements();
